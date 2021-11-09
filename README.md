@@ -1,3 +1,5 @@
+# Project Adventure
+
 Trzecie podejście do stworzenia własnego projektu związanego z analizą danych z wykorzystaniem różnych narzędzi (SQL, Excel, Python, Tableau, R)
 
 ProjectAdventure odnosi się do bazy danych udostępnionej przez microsoft.
