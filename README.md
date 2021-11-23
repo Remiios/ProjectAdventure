@@ -8,4 +8,3 @@ Zbiór danych zawiera informacje o transakcjach, pracownikach, ...
 
 -- Projekt Adventure zawiera pliki:
 
-SQLQuery_Adventure - kod sql zawierający wykonywane agregacje danych
